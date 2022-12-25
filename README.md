@@ -1,5 +1,4 @@
-# Bypass Shell DigiWolBypass-Shell
-
+# Bypass Shell DigiWol
 * Small Size (For Bypassing)
 * Bypass 403
 * Bypass 404
