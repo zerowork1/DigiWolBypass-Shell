@@ -1,4 +1,4 @@
-![ScreenShot](https://raw.githubusercontent.com/HaxorSec1945/DigiWolBypass-Shell/main/ss.jpg)
+![ScreenShot](https://raw.githubusercontent.com/zerowork1/DigiWolBypass-Shell/main/ss.jpg)
 # Bypass Shell DigiWol
 * Bypass 403
 * Bypass 404
